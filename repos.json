@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "K300",
-      "repo": "hhttps://github.com/FloofyProtoBomb/k300.git",
+      "repo": "https://github.com/FloofyProtoBomb/k300",
       "branch": "main",
       "device": "xen"
     },
