@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/TINNO-8937/android_kernel_tinno_msm8937",
-      "branch": "louis/lineage-17.1",
-      "device": "U304AC"
+      "name": "K300",
+      "repo": "hhttps://github.com/FloofyProtoBomb/k300.git",
+      "branch": "main",
+      "device": "xen"
     },
     "withKernelSU": false,
     "toolchains": [
