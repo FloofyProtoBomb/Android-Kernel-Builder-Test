@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/TINNO-8937/android_kernel_tinno_msm8937",
+      "branch": "louis/lineage-17.1",
+      "device": "U304AC"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
