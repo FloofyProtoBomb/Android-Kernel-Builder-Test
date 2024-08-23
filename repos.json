@@ -3,7 +3,7 @@
       "name": "K300",
       "repo": "https://github.com/FloofyProtoBomb/k300",
       "branch": "main",
-      "device": "xen"
+      "device": "muse6762_64_hdk_q"
     },
     "withKernelSU": false,
     "toolchains": [
